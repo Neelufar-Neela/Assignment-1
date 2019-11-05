@@ -6,7 +6,10 @@ body{
 .main{
 	width: 800px;
 	text-align: center;
-	margin: auto;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-bottom: 40px;
+	margin-left: auto;
 	background-color: #ac6868;
 	padding: 30px;
 	text-decoration-color: #0d5fdf;
